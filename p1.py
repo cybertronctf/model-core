@@ -1,1 +1,1 @@
-print("model-core INSERT")
+print("model-core UPDATE")
