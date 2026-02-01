@@ -1,1 +1,0 @@
-print("model-core FIX2")
